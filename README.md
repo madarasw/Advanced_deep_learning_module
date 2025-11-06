@@ -1,7 +1,8 @@
 # Advanced_deep_learning_module
 Contains the assignments and projects done under the module names Advance Deep Learning @ UOM
 
-Assignment: 
+============================================================================================================================
+1. Assignment: 
 You are given the task of building a neural network that predicts whether a 6-digit number is a prime number or not.  
 The neural network takes a 6-digit number as input, where each digit is treated as a separate input feature. 
 The network outputs a binary prediction indicating whether the input number is prime (1) or composite (0). 
@@ -42,3 +43,29 @@ Biases
 0.01,−0.99  
 
 The output CSV file you would submit should have the same format as above.
+
+
+============================================================================================================================
+2. CLASS PROJECT: 
+
+In this project, you must develop a deep learning-based solution to the problem posed in the following challenge.
+
+https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images/overview
+
+Deliverables:
+A report with the following sections (Maximum of 5 pages): 
+Literature review (review around 5 key papers)
+Proposed method (describe your approach and highlight its novelty)
+Training and validation results for your model
+Submission to the challenge - In the report, include a screenshot of the leaderboard showing your best score (with your group name visible)
+Your group name should include the suffix UOM_. For example, a valid group name is UOM_hackers. This is so we can track your progress in the challenge.
+Source code (a separate  assignment link will be created for this)
+Evaluation Criteria
+
+70% of the project marks will be allocated for your rank in the challenge's leaderboard. We will filter out submissions of the groups of this module and consider only those for ranking. The top 3 groups will get 100 marks, the next five will get 80, and the rest will get 60.
+30% of the project marks will be allocated for the report.
+
+Relevant code: 
+Class_Project/ViTs - Try vision transformers for AI vs Real image detection.
+Class_Project/Testing/* - Basic testing and experimeting 
+
